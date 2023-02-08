@@ -1,0 +1,4 @@
+pip~=22.0.4
+emoji~=2.2.0
+tornado~=6.1
+setuptools~=58.1.0
