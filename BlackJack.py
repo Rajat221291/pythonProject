@@ -1,5 +1,5 @@
 import random
-import emoji
+
 
 
 def deal_card():
